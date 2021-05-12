@@ -4,7 +4,7 @@ print(mochila[1])
 print(mochila[0:2]) #elementos 1 e 2, indice 0 e 1
 print(mochila[2:])  #elementos apartir do 2
 print(mochila[-1])  #ultimo elemento
-
+print('-----------------------------')
 # varendo tupla
 for item in mochila:
     print('Na mochila tem: {}'.format(item))
